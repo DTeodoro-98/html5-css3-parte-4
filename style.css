@@ -247,3 +247,9 @@ td, th {
     width: 560px;
     margin: 2em auto;
 }
+
+@media screen and (max-width: 480px) {
+    body {
+        background: rgb(255,0,0);
+    }
+}
